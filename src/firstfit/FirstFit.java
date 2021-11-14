@@ -69,9 +69,7 @@ public class FirstFit {
                   
                   break;
                }
-             
            }  
-           
        }
        System.out.println("After: ");
        System.out.println("Process "+"\tMemory "+"\t\tStatus ");
